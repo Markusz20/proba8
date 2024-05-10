@@ -1,0 +1,35 @@
+CRITICAL - 2024-05-02 20:24:09 --> Undefined property: stdClass::$listaidmod
+in APPPATH\Controllers\Admin.php on line 93.
+ 1 APPPATH\Controllers\Admin.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaidmod', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 93)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 20:24:18 --> Undefined property: stdClass::$listaidmod
+in APPPATH\Controllers\Admin.php on line 93.
+ 1 APPPATH\Controllers\Admin.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaidmod', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 93)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 20:35:08 --> Attempt to read property "listaidmod" on null
+in APPPATH\Controllers\Admin.php on line 93.
+ 1 APPPATH\Controllers\Admin.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaidmod" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 93)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 20:48:48 --> Attempt to read property "listaidmod" on null
+in APPPATH\Controllers\Admin.php on line 93.
+ 1 APPPATH\Controllers\Admin.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaidmod" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 93)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-02 21:49:16 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

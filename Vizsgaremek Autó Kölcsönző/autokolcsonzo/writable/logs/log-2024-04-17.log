@@ -1,0 +1,180 @@
+CRITICAL - 2024-04-17 19:35:02 --> Class "App\Controllers\JWT" not found
+in APPPATH\Controllers\Admin.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:35:03 --> Class "App\Controllers\JWT" not found
+in APPPATH\Controllers\Admin.php on line 156.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:35:31 --> Undefined variable $token
+in APPPATH\Controllers\Admin.php on line 162.
+ 1 APPPATH\Controllers\Admin.php(162): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $token', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 162)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:47:18 --> Undefined array key "id"
+in APPPATH\Controllers\Admin.php on line 157.
+ 1 APPPATH\Controllers\Admin.php(157): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 157)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:49:14 --> Undefined variable $id
+in APPPATH\Models\Berlok.php on line 62.
+ 1 APPPATH\Models\Berlok.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 62)
+ 2 APPPATH\Controllers\Admin.php(155): App\Models\Berlok->getVar('admin2@admin.hu')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:50:46 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\HTTP\ResponseTrait.php on line 443.
+ 1 SYSTEMPATH\HTTP\ResponseTrait.php(443): str_replace([...], '', [...])
+ 2 APPPATH\Controllers\Admin.php(167): CodeIgniter\HTTP\Response->send()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:56:10 --> Undefined array key "id"
+in APPPATH\Models\Berlok.php on line 62.
+ 1 APPPATH\Models\Berlok.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 62)
+ 2 APPPATH\Controllers\Admin.php(155): App\Models\Berlok->getVar('admin2@admin.hu')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:56:54 --> Undefined variable $id
+in APPPATH\Models\Berlok.php on line 62.
+ 1 APPPATH\Models\Berlok.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 62)
+ 2 APPPATH\Controllers\Admin.php(155): App\Models\Berlok->getVar('admin2@admin.hu')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:58:44 --> Attempt to read property "id" on array
+in APPPATH\Models\Berlok.php on line 62.
+ 1 APPPATH\Models\Berlok.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 62)
+ 2 APPPATH\Controllers\Admin.php(155): App\Models\Berlok->getVar('admin2@admin.hu')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 19:58:45 --> Attempt to read property "id" on array
+in APPPATH\Models\Berlok.php on line 62.
+ 1 APPPATH\Models\Berlok.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 62)
+ 2 APPPATH\Controllers\Admin.php(155): App\Models\Berlok->getVar('admin2@admin.hu')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:01:12 --> syntax error, unexpected token "exit"
+in APPPATH\Controllers\Admin.php on line 163.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:01:13 --> syntax error, unexpected token "exit"
+in APPPATH\Controllers\Admin.php on line 163.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:01:45 --> syntax error, unexpected token "exit"
+in APPPATH\Controllers\Admin.php on line 163.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:02:30 --> syntax error, unexpected token "exit"
+in APPPATH\Controllers\Admin.php on line 163.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:02:31 --> syntax error, unexpected token "exit"
+in APPPATH\Controllers\Admin.php on line 163.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:11:43 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:14:06 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:14:36 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:14:52 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:14:53 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:15:13 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:15:42 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:15:43 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:16:29 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:16:49 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-17 20:16:50 --> Call to undefined function App\Controllers\generateToken()
+in APPPATH\Controllers\Admin.php on line 158.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

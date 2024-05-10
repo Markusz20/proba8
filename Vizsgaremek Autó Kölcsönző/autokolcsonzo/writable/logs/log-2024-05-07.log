@@ -1,0 +1,1091 @@
+CRITICAL - 2024-05-07 10:51:38 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 10:55:54 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 10:57:30 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 10:57:38 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 10:58:47 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 11:02:31 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 11:38:41 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 11:50:35 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 13:20:16 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-07 13:21:51 --> Error connecting to the database: ErrorException: Packets out of order. Expected 0 received 80. Packet size=5526600 in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Packets out of ...', 'C:\\xampp\\htdocs...', 184)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-07 13:21:51 --> Error connecting to the database: ErrorException: Packets out of order. Expected 0 received 80. Packet size=5526600 in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Packets out of ...', 'C:\\xampp\\htdocs...', 184)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-07 13:21:51 --> Error connecting to the database: ErrorException: Packets out of order. Expected 0 received 80. Packet size=5526600 in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Packets out of ...', 'C:\\xampp\\htdocs...', 184)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#5 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-07 13:21:51 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-07 13:21:51 --> Error connecting to the database: ErrorException: Packets out of order. Expected 0 received 80. Packet size=5526600 in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Packets out of ...', 'C:\\xampp\\htdocs...', 184)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#5 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-07 13:21:51 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('72')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 13:21:51 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 13:21:51 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-07 13:22:21 --> Error connecting to the database: ErrorException: Packets out of order. Expected 0 received 80. Packet size=5526600 in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Packets out of ...', 'C:\\xampp\\htdocs...', 184)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-07 13:22:21 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `jelszo` = :jelszo:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-07 13:22:51 --> Error connecting to the database: ErrorException: Packets out of order. Expected 0 received 80. Packet size=5526600 in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Packets out of ...', 'C:\\xampp\\htdocs...', 184)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+
+Next mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost:5173', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: MySQL server has gone away in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-07 13:22:51 --> Unable to connect to the database.
+Main connection [MySQLi]: MySQL server has gone away
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `jelszo` = :jelszo:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 13:29:44 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 13:30:21 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 13:32:55 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:17:17 --> syntax error, unexpected token ","
+in APPPATH\Controllers\Kolcson.php on line 179.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('kolcson/kolcsonmod', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('kolcson/kolcsonmod')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('kolcson/kolcsonmod')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:20:12 --> Undefined property: stdClass::$napidíj
+in APPPATH\Controllers\Kolcson.php on line 185.
+ 1 APPPATH\Controllers\Kolcson.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$napidíj', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 185)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:20:19 --> Undefined property: stdClass::$napidíj
+in APPPATH\Controllers\Kolcson.php on line 185.
+ 1 APPPATH\Controllers\Kolcson.php(185): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$napidíj', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 185)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:20:55 --> Undefined property: stdClass::$napidíj
+in APPPATH\Controllers\Kolcson.php on line 186.
+ 1 APPPATH\Controllers\Kolcson.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$napidíj', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 186)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:21:16 --> Undefined property: stdClass::$napidíj
+in APPPATH\Controllers\Kolcson.php on line 187.
+ 1 APPPATH\Controllers\Kolcson.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$napidíj', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 187)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:21:18 --> Undefined property: stdClass::$napidíj
+in APPPATH\Controllers\Kolcson.php on line 187.
+ 1 APPPATH\Controllers\Kolcson.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$napidíj', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 187)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:21:55 --> Call to a member function updAdat() on null
+in APPPATH\Controllers\Kolcson.php on line 193.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:27:14 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 176.
+ 1 APPPATH\Controllers\Kolcson.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 176)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:44:37 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:44:37 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:52:11 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `kolcsonzes`.`id` = :kolcsonzes.id:', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `kolcsonzes`.`id` = :kolcsonzes.id:', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `kolcsonzes`.`id` = :kolcsonzes.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 7 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 8 APPPATH\Models\Kolcsonzes.php(56): CodeIgniter\BaseModel->findAll()
+ 9 APPPATH\Controllers\Kolcson.php(221): App\Models\Kolcsonzes->rendelesid(Object(stdClass))
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:52:11 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `kolcsonzes`.`id` = :kolcsonzes.id:', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `kolcsonzes`.`id` = :kolcsonzes.id:', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `kolcsonzes`.`id` = :kolcsonzes.id:', [...], false)
+ 6 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 7 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 8 APPPATH\Models\Kolcsonzes.php(56): CodeIgniter\BaseModel->findAll()
+ 9 APPPATH\Controllers\Kolcson.php(221): App\Models\Kolcsonzes->rendelesid(Object(stdClass))
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:52:23 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 18:52:23 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:37:42 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:37:42 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:37:51 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:37:51 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:43:55 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:43:55 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:44:00 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:44:00 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:44:16 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:44:16 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:44:48 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:45:08 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:45:08 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:45:08 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:45:13 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:45:14 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:45:51 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:46:24 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:46:25 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:46:34 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 19:46:35 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:22:09 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 176.
+ 1 APPPATH\Controllers\Kolcson.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 176)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:25:03 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:25:14 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:25:14 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:25:22 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:26:16 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:26:22 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:26:22 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:26:29 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:26:54 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:26:55 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:27:17 --> Undefined variable $id
+in APPPATH\Models\Kolcsonzes.php on line 56.
+ 1 APPPATH\Models\Kolcsonzes.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Kolcsonzes.php', 56)
+ 2 APPPATH\Controllers\Kolcson.php(221): App\Models\Kolcsonzes->rendelesid(2)
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:27:19 --> Undefined variable $id
+in APPPATH\Models\Kolcsonzes.php on line 56.
+ 1 APPPATH\Models\Kolcsonzes.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Kolcsonzes.php', 56)
+ 2 APPPATH\Controllers\Kolcson.php(221): App\Models\Kolcsonzes->rendelesid(2)
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 20:32:52 --> Attempt to read property "rendid" on int
+in APPPATH\Controllers\Kolcson.php on line 216.
+ 1 APPPATH\Controllers\Kolcson.php(216): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "rendid" on int', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 216)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesekid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 21:47:35 --> Undefined property: stdClass::$autoid
+in APPPATH\Controllers\Kolcson.php on line 181.
+ 1 APPPATH\Controllers\Kolcson.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$autoid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 181)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 21:47:53 --> Undefined property: stdClass::$autoid
+in APPPATH\Controllers\Kolcson.php on line 181.
+ 1 APPPATH\Controllers\Kolcson.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$autoid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 181)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 21:48:08 --> Undefined property: stdClass::$autoid
+in APPPATH\Controllers\Kolcson.php on line 181.
+ 1 APPPATH\Controllers\Kolcson.php(181): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$autoid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 181)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-07 22:01:09 --> mysqli_sql_exception: Unknown column 'auto.id' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `kolcson...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `kolcson...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `kolcson...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-05-07 22:01:09 --> mysqli_sql_exception: Unknown column 'auto.id' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `kolcson...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `kolcson...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `kolcson...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-07 22:01:09 --> Unknown column 'auto.id' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `auto`.`id`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 22:01:09 --> Unknown column 'auto.id' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `auto`.`id`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('72')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 22:50:49 --> syntax error, unexpected token "else"
+in APPPATH\Controllers\Kolcson.php on line 237.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('kolcson/kolcsonmod', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('kolcson/kolcsonmod')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('kolcson/kolcsonmod')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 22:50:57 --> syntax error, unexpected token "else"
+in APPPATH\Controllers\Kolcson.php on line 237.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('kolcson/kolcsonmod', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('kolcson/kolcsonmod')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('kolcson/kolcsonmod')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 22:56:00 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 182.
+ 1 APPPATH\Controllers\Kolcson.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 182)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 22:56:01 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 182.
+ 1 APPPATH\Controllers\Kolcson.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 182)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 22:56:03 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 182.
+ 1 APPPATH\Controllers\Kolcson.php(182): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 182)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:00:44 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 180.
+ 1 APPPATH\Controllers\Kolcson.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 180)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:02:43 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 180.
+ 1 APPPATH\Controllers\Kolcson.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 180)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:03:15 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 180.
+ 1 APPPATH\Controllers\Kolcson.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 180)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:03:31 --> Undefined property: stdClass::$tipus
+in APPPATH\Controllers\Kolcson.php on line 180.
+ 1 APPPATH\Controllers\Kolcson.php(180): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$tipus', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 180)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:05:29 --> Undefined variable $beadat
+in APPPATH\Controllers\Kolcson.php on line 199.
+ 1 APPPATH\Controllers\Kolcson.php(199): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $beadat', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 199)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:06:27 --> Undefined variable $beadat
+in APPPATH\Controllers\Kolcson.php on line 201.
+ 1 APPPATH\Controllers\Kolcson.php(201): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $beadat', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 201)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:06:50 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 192.
+ 1 APPPATH\Controllers\Kolcson.php(192): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 192)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:08:04 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 189.
+ 1 APPPATH\Controllers\Kolcson.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 189)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:08:05 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 189.
+ 1 APPPATH\Controllers\Kolcson.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 189)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:08:43 --> Attempt to read property "berletkezdetet" on array
+in APPPATH\Controllers\Kolcson.php on line 189.
+ 1 APPPATH\Controllers\Kolcson.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdetet" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 189)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:11:45 --> Undefined variable $beadat
+in APPPATH\Controllers\Kolcson.php on line 196.
+ 1 APPPATH\Controllers\Kolcson.php(196): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $beadat', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 196)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:13:01 --> Undefined variable $beadat
+in APPPATH\Controllers\Kolcson.php on line 194.
+ 1 APPPATH\Controllers\Kolcson.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $beadat', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 194)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:14:10 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Kolcson.php on line 204.
+ 1 APPPATH\Controllers\Kolcson.php(204): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 204)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:21:15 --> Undefined property: CodeIgniter\HTTP\Response::$send
+in APPPATH\Controllers\Kolcson.php on line 190.
+ 1 APPPATH\Controllers\Kolcson.php(190): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\Response::$send', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 190)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:21:55 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 187.
+ 1 APPPATH\Controllers\Kolcson.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 187)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:22:06 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 187.
+ 1 APPPATH\Controllers\Kolcson.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 187)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:25:33 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 187.
+ 1 APPPATH\Controllers\Kolcson.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 187)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-07 23:25:57 --> Attempt to read property "berletkezdete" on array
+in APPPATH\Controllers\Kolcson.php on line 187.
+ 1 APPPATH\Controllers\Kolcson.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berletkezdete" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 187)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsonmod()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

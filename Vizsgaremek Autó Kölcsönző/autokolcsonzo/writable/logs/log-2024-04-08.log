@@ -1,0 +1,539 @@
+CRITICAL - 2024-04-08 19:58:04 --> syntax error, unexpected token "public"
+in APPPATH\Controllers\Admin.php on line 55.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:02:04 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 57.
+ 1 APPPATH\Controllers\Admin.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 57)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:02:40 --> syntax error, unexpected token "!", expecting "("
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:04:15 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 APPPATH\Controllers\Admin.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 54)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:04:16 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 APPPATH\Controllers\Admin.php(54): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 54)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:05:37 --> syntax error, unexpected token "!", expecting "("
+in APPPATH\Controllers\Admin.php on line 55.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:06:03 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:06:09 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:07:39 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:08:51 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:08:54 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:09:20 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:09:21 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:09:40 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:10:00 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:10:02 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 55.
+ 1 APPPATH\Controllers\Admin.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:21:09 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:24:03 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:24:05 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:24:25 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:24:27 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 54.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:24:49 --> count() expects at least 1 argument, 0 given
+in APPPATH\Controllers\Admin.php on line 60.
+ 1 APPPATH\Controllers\Admin.php(60): count()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:24:51 --> count() expects at least 1 argument, 0 given
+in APPPATH\Controllers\Admin.php on line 60.
+ 1 APPPATH\Controllers\Admin.php(60): count()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:25:14 --> count() expects at least 1 argument, 0 given
+in APPPATH\Controllers\Admin.php on line 60.
+ 1 APPPATH\Controllers\Admin.php(60): count()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:25:15 --> count() expects at least 1 argument, 0 given
+in APPPATH\Controllers\Admin.php on line 60.
+ 1 APPPATH\Controllers\Admin.php(60): count()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:25:30 --> count() expects at least 1 argument, 0 given
+in APPPATH\Controllers\Admin.php on line 60.
+ 1 APPPATH\Controllers\Admin.php(60): count()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:26:01 --> Undefined property: stdClass::$jelszo
+in APPPATH\Controllers\Admin.php on line 56.
+ 1 APPPATH\Controllers\Admin.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$jelszo', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:26:45 --> Undefined property: stdClass::$jelszo
+in APPPATH\Controllers\Admin.php on line 59.
+ 1 APPPATH\Controllers\Admin.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$jelszo', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:28:11 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 59.
+ 1 APPPATH\Controllers\Admin.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:28:58 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:28:59 --> Undefined variable $resposne
+in APPPATH\Controllers\Admin.php on line 58.
+ 1 APPPATH\Controllers\Admin.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $resposne', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:31:44 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 65.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:33:42 --> Call to undefined function App\Controllers\belepes()
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:33:58 --> Call to undefined function App\Controllers\belepes()
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:34:26 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 65.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:35:06 --> Undefined constant "App\Controllers\nev"
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:35:34 --> Attempt to read property "nev" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nev" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:36:06 --> Attempt to read property "nev" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nev" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:36:34 --> Undefined constant "App\Controllers\nev"
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:36:36 --> Undefined constant "App\Controllers\nev"
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:36:45 --> Array callback must have exactly two elements
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:37:05 --> syntax error, unexpected token "=>", expecting ")"
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:37:35 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:37:49 --> Undefined array key 0
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:44:37 --> syntax error, unexpected token "}"
+in APPPATH\Controllers\Admin.php on line 75.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:44:48 --> Too few arguments to function App\Models\Berlok::belepes(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 72 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(72): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:47:36 --> Too few arguments to function App\Models\Berlok::belepes(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 72 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(72): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:47:44 --> Too few arguments to function App\Models\Berlok::belepes(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 72 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(72): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:47:45 --> Too few arguments to function App\Models\Berlok::belepes(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 72 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(72): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:54:44 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:54:53 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:55:16 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:55:17 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:55:28 --> Call to undefined function App\Controllers\belepes()
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:55:48 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:57:07 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 APPPATH\Controllers\Admin.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:57:26 --> Undefined constant "App\Controllers\email"
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:57:27 --> Undefined constant "App\Controllers\email"
+in APPPATH\Controllers\Admin.php on line 72.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:57:56 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 74.
+ 1 APPPATH\Controllers\Admin.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:59:18 --> Too few arguments to function App\Models\Berlok::belepes(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 74 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(74): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 20:59:40 --> Undefined variable $email
+in APPPATH\Models\Berlok.php on line 25.
+ 1 APPPATH\Models\Berlok.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 25)
+ 2 APPPATH\Controllers\Admin.php(74): App\Models\Berlok->belepes([...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:00:12 --> Attempt to read property "email" on array
+in APPPATH\Models\Berlok.php on line 25.
+ 1 APPPATH\Models\Berlok.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 25)
+ 2 APPPATH\Controllers\Admin.php(74): App\Models\Berlok->belepes([...])
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:00:56 --> Undefined constant "App\Models\email"
+in APPPATH\Models\Berlok.php on line 25.
+ 1 APPPATH\Controllers\Admin.php(74): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:02:49 --> Too few arguments to function App\Models\Berlok::belepes(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 74 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 23.
+ 1 APPPATH\Controllers\Admin.php(74): App\Models\Berlok->belepes([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:16:47 --> Call to undefined function App\Controllers\belepes()
+in APPPATH\Controllers\Admin.php on line 76.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:23:32 --> Undefined constant "App\Controllers\email"
+in APPPATH\Controllers\Admin.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:24:07 --> Array and string offset access syntax with curly braces is no longer supported
+in APPPATH\Controllers\Admin.php on line 73.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-08 21:24:32 --> Undefined variable $email
+in APPPATH\Controllers\Admin.php on line 73.
+ 1 APPPATH\Controllers\Admin.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:24:44 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 73.
+ 1 APPPATH\Controllers\Admin.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:24:50 --> Undefined constant "App\Controllers\email"
+in APPPATH\Controllers\Admin.php on line 73.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:29:49 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\Admin.php on line 75.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:37:07 --> Call to undefined method App\Models\Berlok::andWhere
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Models\Berlok.php(25): CodeIgniter\Model->__call('andWhere', [...])
+ 2 APPPATH\Controllers\Admin.php(73): App\Models\Berlok->belepes('cat2@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 21:37:52 --> Call to undefined method App\Models\Berlok::andWhere
+in SYSTEMPATH\Model.php on line 873.
+ 1 APPPATH\Models\Berlok.php(25): CodeIgniter\Model->__call('andWhere', [...])
+ 2 APPPATH\Controllers\Admin.php(73): App\Models\Berlok->belepes('cat2@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 22:05:17 --> Unclosed '{' on line 24 does not match ')'
+in APPPATH\Models\Berlok.php on line 25.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(71): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-08 22:05:19 --> Unclosed '{' on line 24 does not match ')'
+in APPPATH\Models\Berlok.php on line 25.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(71): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,368 @@
+CRITICAL - 2024-04-11 20:25:36 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:29:31 --> syntax error, unexpected token ";", expecting ")"
+in APPPATH\Controllers\Admin.php on line 124.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:39:45 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:42:04 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:42:37 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:43:25 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:45:35 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:46:18 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:46:25 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:50:24 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:50:26 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:51:12 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:51:19 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:51:43 --> syntax error, unexpected token "{"
+in APPPATH\Controllers\Admin.php on line 143.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 20:52:43 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 142.
+ 1 APPPATH\Controllers\Admin.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 142)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:06:25 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:06:54 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:07:03 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:07:22 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 54.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:09:00 --> Undefined array key "jelszo"
+in APPPATH\Models\Berlok.php on line 46.
+ 1 APPPATH\Models\Berlok.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jelszo"', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 46)
+ 2 APPPATH\Controllers\Admin.php(150): App\Models\Berlok->van('cezar@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:10:31 --> Array and string offset access syntax with curly braces is no longer supported
+in APPPATH\Models\Berlok.php on line 46.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-11 21:10:42 --> Array and string offset access syntax with curly braces is no longer supported
+in APPPATH\Models\Berlok.php on line 46.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-11 21:10:52 --> Array and string offset access syntax with curly braces is no longer supported
+in APPPATH\Models\Berlok.php on line 46.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-04-11 21:11:05 --> Undefined array key "jelszo"
+in APPPATH\Models\Berlok.php on line 46.
+ 1 APPPATH\Models\Berlok.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jelszo"', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 46)
+ 2 APPPATH\Controllers\Admin.php(150): App\Models\Berlok->van('cezar@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:18:52 --> Undefined variable $vizsgalemail
+in APPPATH\Models\Berlok.php on line 46.
+ 1 APPPATH\Models\Berlok.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $vizsgalemail', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 46)
+ 2 APPPATH\Controllers\Admin.php(150): App\Models\Berlok->van('cezar@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:21:28 --> Undefined variable $vizsgalemail
+in APPPATH\Models\Berlok.php on line 46.
+ 1 APPPATH\Models\Berlok.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $vizsgalemail', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 46)
+ 2 APPPATH\Controllers\Admin.php(149): App\Models\Berlok->van('cezar@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:22:27 --> syntax error, unexpected token "=>"
+in APPPATH\Controllers\Admin.php on line 151.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:27:29 --> Undefined variable $vizsgalemail
+in APPPATH\Models\Berlok.php on line 46.
+ 1 APPPATH\Models\Berlok.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $vizsgalemail', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 46)
+ 2 APPPATH\Controllers\Admin.php(150): App\Models\Berlok->van('cezar@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:27:47 --> Undefined variable $vizsgalemail
+in APPPATH\Models\Berlok.php on line 46.
+ 1 APPPATH\Models\Berlok.php(46): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $vizsgalemail', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php', 46)
+ 2 APPPATH\Controllers\Admin.php(149): App\Models\Berlok->van('cezar@gmail.com', 'jelszo')
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:28:20 --> Too few arguments to function App\Models\Berlok::van(), 1 passed in C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php on line 151 and exactly 2 expected
+in APPPATH\Models\Berlok.php on line 41.
+ 1 APPPATH\Controllers\Admin.php(151): App\Models\Berlok->van([...])
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:28:49 --> Attempt to read property "email" on array
+in APPPATH\Controllers\Admin.php on line 151.
+ 1 APPPATH\Controllers\Admin.php(151): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "email" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 151)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:30:00 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:30:11 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:30:35 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:31:12 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:34:23 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(148): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:34:52 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(149): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:34:53 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 50.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(149): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:37:05 --> syntax error, unexpected token "else", expecting "function" or "const"
+in APPPATH\Models\Berlok.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(149): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-11 21:38:11 --> syntax error, unexpected token "else", expecting "function" or "const"
+in APPPATH\Models\Berlok.php on line 48.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(149): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

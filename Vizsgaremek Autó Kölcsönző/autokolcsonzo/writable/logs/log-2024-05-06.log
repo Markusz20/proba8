@@ -1,0 +1,1980 @@
+CRITICAL - 2024-05-06 12:42:17 --> Undefined property: stdClass::$berloid
+in APPPATH\Controllers\Kolcson.php on line 33.
+ 1 APPPATH\Controllers\Kolcson.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$berloid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 12:42:17 --> Undefined property: stdClass::$berloid
+in APPPATH\Controllers\Kolcson.php on line 33.
+ 1 APPPATH\Controllers\Kolcson.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$berloid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 12:46:08 --> Undefined property: stdClass::$berloid
+in APPPATH\Controllers\Kolcson.php on line 33.
+ 1 APPPATH\Controllers\Kolcson.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$berloid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 12:46:08 --> Undefined property: stdClass::$berloid
+in APPPATH\Controllers\Kolcson.php on line 33.
+ 1 APPPATH\Controllers\Kolcson.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$berloid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 12:57:50 --> mysqli_sql_exception: Unknown column 'kolcsonzes.kepek' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `kolcson...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `kolcson...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `kolcson...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2024-05-06 12:57:50 --> mysqli_sql_exception: Unknown column 'kolcsonzes.kepek' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `kolcson...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `kolcson...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `kolcson...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-06 12:57:50 --> Unknown column 'kolcsonzes.kepek' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `kolcsonzes`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 12:57:50 --> Unknown column 'kolcsonzes.kepek' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `kolcsonzes`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 12:59:09 --> mysqli_sql_exception: Unknown column 'kolcsonzes.kepek' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `kolcson...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `kolcson...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `kolcson...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-06 12:59:09 --> Unknown column 'kolcsonzes.kepek' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `kolcsonzes`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 12:59:09 --> mysqli_sql_exception: Unknown column 'kolcsonzes.kepek' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `kolcson...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `kolcson...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `kolcson...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-06 12:59:09 --> Unknown column 'kolcsonzes.kepek' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `kolcsonzes`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:24:00 --> Attempt to read property "torolid" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "torolid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:25:10 --> Undefined property: stdClass::$torolid
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$torolid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:25:44 --> Undefined property: stdClass::$torolid
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$torolid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:51:22 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:52:03 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:52:55 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:56:05 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 17:56:57 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:00:49 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:01:06 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:01:06 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:01:06 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:01:16 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:02:08 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:04:31 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:04:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:04:31 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:04:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:04:31 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-06 18:04:31 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:04:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:04:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:01 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-06 18:05:01 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:05:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:01 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-06 18:05:01 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:05:01 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:20 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:20 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:24 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:24 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:24 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-06 18:05:24 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:05:24 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:43 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcson...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:43 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `kolcsonzes`.`berloid`, `kolcsonzes`.`id`, `berlok`.`nev`, `autok`.`tipus`, `kolcsonzes`.`berletkezdete`, `kolcsonzes`.`berletvege`, `kolcsonzes`.`napokszama`, `kolcsonzes`.`napidij`, `autok`.`kepek`
+FROM `kolcsonzes`
+JOIN `berlok` ON `kolcsonzes`.`berloid`=`berlok`.`id`
+JOIN `autok` ON `kolcsonzes`.`autoid`=`autok`.`id`
+WHERE `berlok`.`id` = :berlok.id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Kolcsonzes.php(21): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Kolcson.php(38): App\Models\Kolcsonzes->rendeles('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:47 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:47 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:47 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:47 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:49 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(103): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(103): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-06 18:05:49 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:05:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(103): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:49 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(103): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(103): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(103): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaidmod()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:49 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2024-05-06 18:05:49 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Autoberles.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Autober.php(14): App\Models\Nevnap->getAll()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Autober->lista()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autober))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Autoberles.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Autober.php(14): App\Models\Nevnap->getAll()
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Autober->lista()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autober))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `autok`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Autoberles.php(13): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Autober.php(14): App\Models\Nevnap->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Autober->lista()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autober))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 18:05:49 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(65): App\Models\Berlok->getLoginId('76')
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:05:53 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Autoberles.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Autober.php(14): App\Models\Nevnap->getAll()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Autober->lista()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autober))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Autoberles.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Autober.php(14): App\Models\Nevnap->getAll()
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Autober->lista()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autober))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:05:53 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `autok`', [], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Autoberles.php(13): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Autober.php(14): App\Models\Nevnap->getAll()
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Autober->lista()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Autober))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:06:12 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:06:12 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `jelszo` = :jelszo:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:06:27 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:06:27 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `jelszo` = :jelszo:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 18:07:04 --> Error connecting to the database: mysqli_sql_exception: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:184
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(184): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'autoberles', 3306, '', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:229
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(392): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+#7 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-06 18:07:04 --> Unable to connect to the database.
+Main connection [MySQLi]: Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot
+in SYSTEMPATH\Database\BaseConnection.php on line 428.
+ 1 SYSTEMPATH\Database\BaseConnection.php(575): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `jelszo` = :jelszo:', [...], false)
+ 3 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Models\Berlok.php(50): CodeIgniter\BaseModel->findAll()
+ 6 APPPATH\Controllers\Admin.php(227): App\Models\Berlok->van('admin@admin.hu', false)
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:53:55 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:53:55 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 21:54:39 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:54:39 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 21:54:41 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:54:41 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 21:54:42 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:54:42 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 21:55:40 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:55:40 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 21:58:53 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:58:53 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 21:59:16 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 21:59:16 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 22:00:26 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 22:00:26 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 22:00:27 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 22:00:27 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 22:00:29 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 22:00:29 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 22:00:31 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 22:00:31 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-05-06 22:02:07 --> The framework needs the following extension(s) installed and loaded: intl.
+in SYSTEMPATH\CodeIgniter.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+ 2 SYSTEMPATH\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+ 3 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-05-06 22:02:07 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php:74
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\I18n\TimeTrait.php(115): CodeIgniter\I18n\Time->__construct(NULL, NULL, NULL)
+#1 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(468): CodeIgniter\I18n\Time::now()
+#2 C:\xampp\htdocs\autokolcsonzo\system\HTTP\ResponseTrait.php(446): CodeIgniter\HTTP\Response->sendHeaders()
+#3 C:\xampp\htdocs\autokolcsonzo\system\Debug\ExceptionHandler.php(81): CodeIgniter\HTTP\Response->send()
+#4 C:\xampp\htdocs\autokolcsonzo\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(CodeIgniter\Exceptions\FrameworkException), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(CodeIgniter\Exceptions\FrameworkException))
+#6 {main}
+  thrown
+【Previous Exception】
+CodeIgniter\Exceptions\FrameworkException
+The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(252): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(214): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\autokolcsonzo\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#3 {main}
+in SYSTEMPATH\I18n\TimeTrait.php on line 74.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2024-05-06 20:12:15 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`autoberles`.`kolcsonzes`, CONSTRAINT `kolcsonzes_ibfk_2` FOREIGN KEY (`berloid`) REFERENCES `berlok` (`id`)) in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ko...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ko...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ko...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ko...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(26): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(120): App\Models\Kolcsonzes->insBerles(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->ujadatbeszur()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-06 20:12:15 --> Cannot add or update a child row: a foreign key constraint fails (`autoberles`.`kolcsonzes`, CONSTRAINT `kolcsonzes_ibfk_2` FOREIGN KEY (`berloid`) REFERENCES `berlok` (`id`))
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `kolcsonzes` (`berloid`, `autoid`, `berletkezdete`, `berletvege`, `napokszama`, `napidij`) VALUES (:berloid:, :autoid:, :berletkezdete:, :berletvege:, :napokszama:, :napidij:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Kolcsonzes.php(26): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Kolcson.php(120): App\Models\Kolcsonzes->insBerles([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->ujadatbeszur()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-06 20:12:34 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`autoberles`.`kolcsonzes`, CONSTRAINT `kolcsonzes_ibfk_2` FOREIGN KEY (`berloid`) REFERENCES `berlok` (`id`)) in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ko...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ko...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ko...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ko...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(26): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(120): App\Models\Kolcsonzes->insBerles(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->ujadatbeszur()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-06 20:12:34 --> Cannot add or update a child row: a foreign key constraint fails (`autoberles`.`kolcsonzes`, CONSTRAINT `kolcsonzes_ibfk_2` FOREIGN KEY (`berloid`) REFERENCES `berlok` (`id`))
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `kolcsonzes` (`berloid`, `autoid`, `berletkezdete`, `berletvege`, `napokszama`, `napidij`) VALUES (:berloid:, :autoid:, :berletkezdete:, :berletvege:, :napokszama:, :napidij:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Kolcsonzes.php(26): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Kolcson.php(120): App\Models\Kolcsonzes->insBerles([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->ujadatbeszur()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 20:18:30 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 20:45:33 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:15:36 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:15:47 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:17:40 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:18:08 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:19:29 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:31:23 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:31:36 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:33:46 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:33:51 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:34:21 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:38:35 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/kolcsontorolid', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:38:40 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:38:40 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:38:40 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/listaid', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:38:40 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/listaid', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:39:30 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:39:39 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:39:43 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/listaid', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:39:43 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/listaid', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:39:43 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:39:43 --> Class "Config\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:40:28 --> Class "CodeIgniter\Middleware\BaseMiddleware" not found
+in APPPATH\Middleware\CORS.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Middleware\\CORS.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Middleware\\CORS')
+ 4 SYSTEMPATH\Filters\Filters.php(177): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Middleware\\CORS')
+ 5 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:40:28 --> Class "CodeIgniter\Middleware\BaseMiddleware" not found
+in APPPATH\Middleware\CORS.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Middleware\\CORS.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Middleware\\CORS')
+ 4 SYSTEMPATH\Filters\Filters.php(177): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Middleware\\CORS')
+ 5 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('kolcson/rendelesek', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:40:28 --> Class "CodeIgniter\Middleware\BaseMiddleware" not found
+in APPPATH\Middleware\CORS.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Middleware\\CORS.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Middleware\\CORS')
+ 4 SYSTEMPATH\Filters\Filters.php(177): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Middleware\\CORS')
+ 5 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/listaid', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:40:28 --> Class "CodeIgniter\Middleware\BaseMiddleware" not found
+in APPPATH\Middleware\CORS.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Middleware\\CORS.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Middleware\\CORS')
+ 4 SYSTEMPATH\Filters\Filters.php(177): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Middleware\\CORS')
+ 5 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/listaid', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:40:55 --> Class "CodeIgniter\Middleware\BaseMiddleware" not found
+in APPPATH\Middleware\CORS.php on line 9.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Middleware\\CORS.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Middleware\\CORS')
+ 4 SYSTEMPATH\Filters\Filters.php(177): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Middleware\\CORS')
+ 5 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/belepes', 'before')
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:41:36 --> Class "app\Middleware\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/belepes', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:43:01 --> Class "app\Middleware\CORS" not found
+in SYSTEMPATH\Filters\Filters.php on line 177.
+ 1 SYSTEMPATH\CodeIgniter.php(474): CodeIgniter\Filters\Filters->run('admin/belepes', 'before')
+ 2 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 3 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:44:05 --> Attempt to read property "berloid" on null
+in APPPATH\Controllers\Kolcson.php on line 33.
+ 1 APPPATH\Controllers\Kolcson.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berloid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:44:05 --> Attempt to read property "berloid" on null
+in APPPATH\Controllers\Kolcson.php on line 33.
+ 1 APPPATH\Controllers\Kolcson.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "berloid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->rendelesek()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-06 21:44:35 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 150.
+ 1 APPPATH\Controllers\Kolcson.php(150): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 150)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

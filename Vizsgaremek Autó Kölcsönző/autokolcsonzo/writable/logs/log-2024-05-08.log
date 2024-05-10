@@ -1,0 +1,201 @@
+ERROR - 2024-05-08 13:30:30 --> mysqli_sql_exception: Cannot add or update a child row: a foreign key constraint fails (`autoberles`.`kolcsonzes`, CONSTRAINT `kolcsonzes_ibfk_1` FOREIGN KEY (`autoid`) REFERENCES `autok` (`id`)) in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `ko...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ko...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ko...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ko...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Kolcsonzes.php(26): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Kolcson.php(114): App\Models\Kolcsonzes->insBerles(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Kolcson->ujadatbeszur()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-08 13:30:30 --> Cannot add or update a child row: a foreign key constraint fails (`autoberles`.`kolcsonzes`, CONSTRAINT `kolcsonzes_ibfk_1` FOREIGN KEY (`autoid`) REFERENCES `autok` (`id`))
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `kolcsonzes` (`berloid`, `autoid`, `berletkezdete`, `berletvege`, `napokszama`, `napidij`) VALUES (:berloid:, :autoid:, :berletkezdete:, :berletvege:, :napokszama:, :napidij:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Kolcsonzes.php(26): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Kolcson.php(114): App\Models\Kolcsonzes->insBerles([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->ujadatbeszur()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-08 13:31:22 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 142.
+ 1 APPPATH\Controllers\Kolcson.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 142)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-08 13:31:24 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 142.
+ 1 APPPATH\Controllers\Kolcson.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 142)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-08 19:07:03 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'where clause' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', 'asdasdasd')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-08 19:07:03 --> Unknown column 'biztonsagikod' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `biztonsagikod` = :biztonsagikod:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', 'asdasdasd')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-08 19:07:27 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'where clause' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', 'asdasdasdasd')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-08 19:07:27 --> Unknown column 'biztonsagikod' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `biztonsagikod` = :biztonsagikod:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', 'asdasdasdasd')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-08 19:07:54 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `berlok`...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berlok`...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berlok`...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok`...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(949): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(776): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(70): CodeIgniter\Model->update('76', Array)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(285): App\Models\Berlok->updAdat('76', Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-08 19:07:54 --> Unknown column 'biztonsagikod' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok` SET `nev` = :nev:, `jogositvanyszama` = :jogositvanyszama:, `telefonszam` = :telefonszam:, `szuletesiido` = :szuletesiido:, `isz` = :isz:, `cim` = :cim:, `varos` = :varos:, `biztonsagikod` = :biztonsagikod:
+WHERE `berlok`.`id` IN :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(949): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\Berlok.php(70): CodeIgniter\Model->update('76', [...])
+ 6 APPPATH\Controllers\Admin.php(285): App\Models\Berlok->updAdat('76', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-08 19:08:04 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'where clause' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', '123123123')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-08 19:08:04 --> Unknown column 'biztonsagikod' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `biztonsagikod` = :biztonsagikod:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', '123123123')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-08 19:08:08 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'where clause' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', '123123123')
+#8 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2024-05-08 19:08:08 --> Unknown column 'biztonsagikod' in 'where clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `email` = :email:
+AND `biztonsagikod` = :biztonsagikod:', [...], false)
+ 2 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 4 APPPATH\Models\Berlok.php(61): CodeIgniter\BaseModel->findAll()
+ 5 APPPATH\Controllers\Admin.php(329): App\Models\Berlok->vanbizkod('asdf@asd.com', '123123123')
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->biztonsagi()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-08 19:15:39 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 142.
+ 1 APPPATH\Controllers\Kolcson.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 142)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-08 19:15:41 --> Attempt to read property "id" on null
+in APPPATH\Controllers\Kolcson.php on line 142.
+ 1 APPPATH\Controllers\Kolcson.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "id" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Kolcson.php', 142)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Kolcson->kolcsontorolid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Kolcson))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

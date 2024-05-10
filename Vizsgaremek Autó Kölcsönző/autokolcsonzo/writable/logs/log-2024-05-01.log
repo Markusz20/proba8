@@ -1,0 +1,1821 @@
+CRITICAL - 2024-05-01 09:53:19 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:53:20 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:54:18 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:54:20 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:54:21 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:54:23 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:55:53 --> Call to a member function getAll() on null
+in APPPATH\Controllers\Admin.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:55:55 --> Call to a member function getAll() on null
+in APPPATH\Controllers\Admin.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:56:29 --> Call to a member function getAll() on null
+in APPPATH\Controllers\Admin.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:56:31 --> Call to a member function getAll() on null
+in APPPATH\Controllers\Admin.php on line 42.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 09:57:01 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:02:53 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:02:55 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:03:12 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:03:13 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:03:27 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:03:38 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:03:39 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 41.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:11:31 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:11:33 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:14:31 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:14:32 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:14:33 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:14:40 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:17:10 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:17:12 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:18:01 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:18:28 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:19:10 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:20:18 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:20:25 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 45.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:22:32 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:27:35 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 10:27:36 --> Call to a member function getloginId() on null
+in APPPATH\Controllers\Admin.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:48 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:55 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:56 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:56 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:56 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:56 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:01:56 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:02:57 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:04:13 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:04:51 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:04:54 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:04:55 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:07:15 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:07:16 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:07:16 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:07:17 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:07:18 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:08:18 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:08:19 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:09:33 --> Call to a member function van() on null
+in APPPATH\Controllers\Admin.php on line 189.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:32:18 --> Attempt to read property "listaid" on array
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:32:18 --> Attempt to read property "listaid" on array
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on array', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:32:55 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:32:55 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:02 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:02 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:07 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:07 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:16 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:16 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:16 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:16 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:28 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:33:28 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:34:09 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:34:09 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:34:39 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 13:34:39 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:02:10 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:02:10 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:03:36 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:03:36 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:03:36 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:03:36 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:04:15 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:04:15 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:04:15 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:04:15 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:09:41 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:09:41 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:09:41 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:09:41 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:10:35 --> Too few arguments to function App\Controllers\Admin::listaid(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:14:13 --> Too few arguments to function App\Controllers\Admin::listaid(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:40:41 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid('undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:40:41 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid('undefined')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:41:20 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:41:25 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:41:25 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:43:01 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:43:05 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 14:43:05 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:23:40 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:23:40 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:24:05 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:27:25 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:27:25 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:30:32 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:30:32 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:34:55 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:34:55 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:38:59 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:39:00 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:40:22 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:40:22 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:44:36 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:44:36 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:44:44 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:44:44 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:44:48 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:44:48 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:46:54 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:46:54 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:47:00 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:47:00 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:47:33 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:47:33 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:47:48 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:47:48 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:48:54 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:48:54 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:49:09 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:49:09 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:49:15 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:49:15 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:50:10 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:50:10 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:51:02 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:51:02 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:51:11 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:51:11 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:57:08 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:57:08 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:59:15 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 15:59:15 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:00:08 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:00:08 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:00:12 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:00:12 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:00:20 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:00:20 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:07:31 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:07:31 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:10:39 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:15 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:15 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:15 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:15 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:42 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:43 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:43 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 16:11:43 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:02:39 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:07:05 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:07:05 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:08:20 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:08:21 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:14:21 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 6 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 7 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 8 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 9 APPPATH\Controllers\Admin.php(46): App\Models\Berlok->getLoginId(Object(stdClass))
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:14:21 --> Object of class stdClass could not be converted to string
+in SYSTEMPATH\Database\Query.php on line 333.
+ 1 SYSTEMPATH\Database\Query.php(333): strtr('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...])
+ 2 SYSTEMPATH\Database\Query.php(308): CodeIgniter\Database\Query->matchNamedBinds('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...])
+ 3 SYSTEMPATH\Database\Query.php(159): CodeIgniter\Database\Query->compileBinds()
+ 4 SYSTEMPATH\Database\BaseConnection.php(607): CodeIgniter\Database\Query->getQuery()
+ 5 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `berlok`
+WHERE `id` = :id:', [...], false)
+ 6 SYSTEMPATH\Model.php(237): CodeIgniter\Database\BaseBuilder->get()
+ 7 SYSTEMPATH\BaseModel.php(624): CodeIgniter\Model->doFindAll(0, 0)
+ 8 APPPATH\Models\Berlok.php(18): CodeIgniter\BaseModel->findAll()
+ 9 APPPATH\Controllers\Admin.php(46): App\Models\Berlok->getLoginId(Object(stdClass))
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:18:10 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:18:10 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:18:15 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:20:32 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:57:01 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:57:02 --> Attempt to read property "listaid" on null
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:57:31 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:57:36 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:57:36 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:57:57 --> Undefined property: stdClass::$listaid
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$listaid', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:59:16 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 19:59:16 --> Attempt to read property "listaid" on string
+in APPPATH\Controllers\Admin.php on line 35.
+ 1 APPPATH\Controllers\Admin.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "listaid" on string', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->listaid()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-01 21:49:05 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `berlok`...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berlok`...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berlok`...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok`...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(949): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(776): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(59): CodeIgniter\Model->update(27, Array)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-01 21:49:05 --> Unknown column 'biztonsagikod' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok` SET `id` = :id:, `nev` = :nev:, `jogositvanyszama` = :jogositvanyszama:, `telefonszam` = :telefonszam:, `szuletesiido` = :szuletesiido:, `isz` = :isz:, `varos` = :varos:, `cim` = :cim:, `biztonsagikod` = :biztonsagikod:
+WHERE `berlok`.`id` IN :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(949): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\Berlok.php(59): CodeIgniter\Model->update(27, [...])
+ 6 APPPATH\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-01 21:49:14 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `berlok`...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berlok`...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berlok`...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok`...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(949): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(776): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(59): CodeIgniter\Model->update(27, Array)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-01 21:49:14 --> Unknown column 'biztonsagikod' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok` SET `id` = :id:, `nev` = :nev:, `jogositvanyszama` = :jogositvanyszama:, `telefonszam` = :telefonszam:, `szuletesiido` = :szuletesiido:, `isz` = :isz:, `varos` = :varos:, `cim` = :cim:, `biztonsagikod` = :biztonsagikod:
+WHERE `berlok`.`id` IN :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(949): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\Berlok.php(59): CodeIgniter\Model->update(27, [...])
+ 6 APPPATH\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-01 21:49:18 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `berlok`...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berlok`...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berlok`...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok`...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(949): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(776): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(59): CodeIgniter\Model->update(27, Array)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-01 21:49:18 --> Unknown column 'biztonsagikod' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok` SET `id` = :id:, `nev` = :nev:, `jogositvanyszama` = :jogositvanyszama:, `telefonszam` = :telefonszam:, `szuletesiido` = :szuletesiido:, `isz` = :isz:, `varos` = :varos:, `cim` = :cim:, `biztonsagikod` = :biztonsagikod:
+WHERE `berlok`.`id` IN :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(949): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\Berlok.php(59): CodeIgniter\Model->update(27, [...])
+ 6 APPPATH\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-01 21:49:19 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `berlok`...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berlok`...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berlok`...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok`...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(949): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(776): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(59): CodeIgniter\Model->update(27, Array)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-01 21:49:19 --> Unknown column 'biztonsagikod' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok` SET `id` = :id:, `nev` = :nev:, `jogositvanyszama` = :jogositvanyszama:, `telefonszam` = :telefonszam:, `szuletesiido` = :szuletesiido:, `isz` = :isz:, `varos` = :varos:, `cim` = :cim:, `biztonsagikod` = :biztonsagikod:
+WHERE `berlok`.`id` IN :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(949): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\Berlok.php(59): CodeIgniter\Model->update(27, [...])
+ 6 APPPATH\Controllers\Admin.php(248): App\Models\Berlok->updAdat(27, [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-05-01 21:54:19 --> mysqli_sql_exception: Unknown column 'biztonsagikod' in 'field list' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('UPDATE `berlok`...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `berlok`...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `berlok`...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok`...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(949): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(776): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(59): CodeIgniter\Model->update(27, Array)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(249): App\Models\Berlok->updAdat(27, Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-05-01 21:54:19 --> Unknown column 'biztonsagikod' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2475): CodeIgniter\Database\BaseConnection->query('UPDATE `berlok` SET `id` = :id:, `nev` = :nev:, `jogositvanyszama` = :jogositvanyszama:, `telefonszam` = :telefonszam:, `szuletesiido` = :szuletesiido:, `isz` = :isz:, `varos` = :varos:, `cim` = :cim:, `biztonsagikod` = :biztonsagikod:
+WHERE `berlok`.`id` IN :berlok.id:', [...], false)
+ 2 SYSTEMPATH\Model.php(385): CodeIgniter\Database\BaseBuilder->update()
+ 3 SYSTEMPATH\BaseModel.php(949): CodeIgniter\Model->doUpdate([...], [...])
+ 4 SYSTEMPATH\Model.php(776): CodeIgniter\BaseModel->update([...], [...])
+ 5 APPPATH\Models\Berlok.php(59): CodeIgniter\Model->update(27, [...])
+ 6 APPPATH\Controllers\Admin.php(249): App\Models\Berlok->updAdat(27, [...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 21:56:10 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 21:56:12 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:02:09 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:02:11 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:02:12 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:02:41 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:02:42 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:04:52 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:04:54 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:04:54 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:05:02 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:05:03 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:06:42 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:08:00 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:08:02 --> Undefined property: stdClass::$email
+in APPPATH\Controllers\Admin.php on line 237.
+ 1 APPPATH\Controllers\Admin.php(237): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$email', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 237)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:09:05 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:09:07 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:10:04 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:11:34 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:11:36 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:11:41 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:11:41 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:13:55 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:14:22 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:14:23 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:14:39 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:15:23 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:15:24 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:15:35 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:15:36 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:16:29 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:16:30 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:16:48 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 230.
+ 1 APPPATH\Controllers\Admin.php(230): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 230)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:18:46 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:19:15 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:19:19 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:19:21 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:19:45 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:22:31 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:24:16 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:24:18 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:25:06 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:25:07 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:25:09 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:25:10 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:25:50 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:26:18 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:26:20 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:30:33 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:13 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:14 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:15 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:16 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:16 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:40 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:33:41 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:34:56 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:34:58 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:34:58 --> Undefined property: stdClass::$id
+in APPPATH\Controllers\Admin.php on line 231.
+ 1 APPPATH\Controllers\Admin.php(231): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 231)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->adatmodosit()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:36:11 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 257.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:36:12 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 257.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:36:46 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 259.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:36:48 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 259.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:37:58 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 261.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:37:59 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 261.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:38:00 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 261.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-05-01 22:38:55 --> syntax error, unexpected variable "$response"
+in APPPATH\Controllers\Admin.php on line 256.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/adatmodosit', 'put')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/adatmodosit')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/adatmodosit')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

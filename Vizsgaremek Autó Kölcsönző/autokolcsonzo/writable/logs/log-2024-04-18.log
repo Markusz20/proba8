@@ -1,0 +1,321 @@
+CRITICAL - 2024-04-18 21:36:59 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 241.
+ 1 APPPATH\Controllers\Admin.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 241)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:37:05 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 241.
+ 1 APPPATH\Controllers\Admin.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 241)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:37:21 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 241.
+ 1 APPPATH\Controllers\Admin.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 241)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:37:34 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 241.
+ 1 APPPATH\Controllers\Admin.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 241)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:38:53 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 241.
+ 1 APPPATH\Controllers\Admin.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 241)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:38:54 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 241.
+ 1 APPPATH\Controllers\Admin.php(241): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 241)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:42:21 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:42:24 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:42:30 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:42:31 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:42:31 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:11 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:13 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:25 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:26 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:42 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:43 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:43:46 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:46:39 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:46:40 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:46:59 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:06 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:07 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:34 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:45 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:47 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:54 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:55 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:47:55 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:48:32 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:50:23 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:51:21 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:51:22 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:51:25 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:51:32 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:56:42 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:57:15 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:57:26 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:58:06 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 21:58:08 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:02:49 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:02:56 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:02:58 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:03:13 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:03:37 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 239.
+ 1 APPPATH\Controllers\Admin.php(239): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 239)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:03:41 --> Undefined variable $id
+in APPPATH\Controllers\Admin.php on line 239.
+ 1 APPPATH\Controllers\Admin.php(239): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 239)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:04:34 --> Undefined property: CodeIgniter\HTTP\IncomingRequest::$id
+in APPPATH\Controllers\Admin.php on line 239.
+ 1 APPPATH\Controllers\Admin.php(239): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\HTTP\\IncomingRequest::$id', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 239)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:05:31 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:08:58 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:08:59 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:09:01 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-18 22:09:15 --> Too few arguments to function App\Controllers\Admin::idget(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Admin.php on line 236.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->idget()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,812 @@
+CRITICAL - 2024-04-10 18:08:48 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:09:30 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:10:11 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:11:55 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:12:30 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:12:50 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:13:30 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:14:41 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:26:09 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:28:36 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:30:15 --> syntax error, unexpected token "*"
+in APPPATH\Controllers\Admin.php on line 97.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:32:17 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:32:17 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:34:41 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:34:41 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:34:50 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:34:50 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:35:18 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:35:18 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:37:32 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:37:32 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:38:44 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:38:44 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-04-10 18:38:50 --> mysqli_sql_exception: Duplicate entry 'gulacsi@gmail.com' for key 'email' in C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\autokolcsonzo\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `be...', 0)
+#1 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `be...')
+#2 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `be...')
+#3 C:\xampp\htdocs\autokolcsonzo\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `be...', Array, false)
+#4 C:\xampp\htdocs\autokolcsonzo\system\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\autokolcsonzo\system\BaseModel.php(788): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\autokolcsonzo\system\Model.php(715): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\autokolcsonzo\app\Models\Berlok.php(19): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\autokolcsonzo\app\Controllers\Admin.php(82): App\Models\Berlok->insAdat(Array)
+#9 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(942): App\Controllers\Admin->register()
+#10 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#11 C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\autokolcsonzo\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2024-04-10 18:38:50 --> Duplicate entry 'gulacsi@gmail.com' for key 'email'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `berlok` (`nev`, `email`, `jelszo`) VALUES (:nev:, :email:, :jelszo:)', [...], false)
+ 2 SYSTEMPATH\Model.php(319): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(788): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(715): CodeIgniter\BaseModel->insert([...], false)
+ 5 APPPATH\Models\Berlok.php(19): CodeIgniter\Model->insert([...], false)
+ 6 APPPATH\Controllers\Admin.php(82): App\Models\Berlok->insAdat([...])
+ 7 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:47:09 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:47:13 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:47:56 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:51:35 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:53:55 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:54:14 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 18:57:52 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:01:42 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:01:50 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:03:54 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:05:05 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:06:39 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:07:01 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:17:16 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:20:09 --> syntax error, unexpected token "=="
+in APPPATH\Controllers\Admin.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:20:12 --> syntax error, unexpected token "=="
+in APPPATH\Controllers\Admin.php on line 82.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/register', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/register')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/register')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:22:02 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:25:46 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:31:36 --> syntax error, unexpected token "else"
+in APPPATH\Models\Berlok.php on line 39.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\autokolcsonzo\\app\\Models\\Berlok.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Berlok')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Berlok')
+ 4 SYSTEMPATH\Config\Factories.php(283): class_exists('App\\Models\\Berlok')
+ 5 SYSTEMPATH\Config\Factories.php(202): CodeIgniter\Config\Factories::locateClass([...], 'App\\Models\\Berlok')
+ 6 SYSTEMPATH\Config\Factories.php(161): CodeIgniter\Config\Factories::getDefinedInstance([...], 'App\\Models\\Berlok', [...])
+ 7 SYSTEMPATH\Common.php(827): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Admin.php(78): model('App\\Models\\Berlok')
+ 9 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+10 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+11 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:36:45 --> Call to undefined function App\Controllers\vanemail()
+in APPPATH\Controllers\Admin.php on line 79.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:37:29 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 99.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:38:09 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 101.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:38:23 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 102.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:41:07 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:43:16 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:45:41 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:46:56 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:48:41 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:51:24 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:51:30 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:51:51 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 105.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:51:57 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 105.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:52:02 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 19:52:53 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 98.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:16:24 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 108.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:23:06 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:24:10 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:24:54 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:26:10 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:34:26 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 20:39:05 --> Object of class CodeIgniter\HTTP\Response could not be converted to string
+in APPPATH\Controllers\Admin.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->register()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 21:57:48 --> Too few arguments to function App\Controllers\Admin::belepes(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\Admin.php on line 117.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 21:58:08 --> Too few arguments to function App\Controllers\Admin::belepes(), 0 passed in C:\xampp\htdocs\autokolcsonzo\system\CodeIgniter.php on line 942 and exactly 2 expected
+in APPPATH\Controllers\Admin.php on line 117.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:08:21 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 142.
+ 1 APPPATH\Controllers\Admin.php(142): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 142)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:09:25 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:09:26 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:14:28 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'post')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:15:06 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:15:08 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:15:17 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:15:38 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:15:39 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:15:47 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:16:16 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:16:17 --> syntax error, unexpected identifier "var_dump"
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 SYSTEMPATH\Router\Router.php(514): CodeIgniter\Router\AutoRouter->getRoute('admin/belepes', 'get')
+ 2 SYSTEMPATH\Router\Router.php(210): CodeIgniter\Router\Router->autoRoute('admin/belepes')
+ 3 SYSTEMPATH\CodeIgniter.php(823): CodeIgniter\Router\Router->handle('admin/belepes')
+ 4 SYSTEMPATH\CodeIgniter.php(450): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:17:22 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 143.
+ 1 APPPATH\Controllers\Admin.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 143)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:18:08 --> Undefined property: stdClass::$emai
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 APPPATH\Controllers\Admin.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$emai', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 123)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:18:09 --> Undefined property: stdClass::$emai
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 APPPATH\Controllers\Admin.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$emai', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 123)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:18:13 --> Attempt to read property "emai" on null
+in APPPATH\Controllers\Admin.php on line 123.
+ 1 APPPATH\Controllers\Admin.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "emai" on null', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 123)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-10 22:22:25 --> Undefined variable $frontendtol
+in APPPATH\Controllers\Admin.php on line 144.
+ 1 APPPATH\Controllers\Admin.php(144): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $frontendtol', 'C:\\xampp\\htdocs\\autokolcsonzo\\app\\Controllers\\Admin.php', 144)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->belepes()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
